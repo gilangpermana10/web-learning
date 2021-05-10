@@ -1,0 +1,20 @@
+#sidebar{
+    background-color: cyan;
+    width: fit-content;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    position: relative;
+}
+
+ul{
+    line-height: 30px;
+}
+
+li{
+    line-height: 10pt;
+}
+
+img{
+    border-radius: 25%;
+    border: rgb(102, 102, 102) 19px solid; 
+}
